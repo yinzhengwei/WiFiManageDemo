@@ -22,6 +22,11 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @Create by 2018-04-18
+ * @Author yinzhengwei
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     private WifiManager mWifiManager;
